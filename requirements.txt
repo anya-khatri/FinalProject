@@ -1,0 +1,12 @@
+# Transformers and LLM fine-tuning
+transformers>=4.30.0
+peft>=0.4.0     
+accelerate>=0.20.0     
+
+
+# Weights & Biases for experiment tracking
+wandb>=0.15.0
+
+
+# Jupyter environment
+jupyter
