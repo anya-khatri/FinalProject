@@ -21,7 +21,7 @@ Make sure the following are installed:
 
 
 
-## ▶️ Running the Notebook in Google Colab (Step-by-Step)
+## Running the Notebook in Google Colab (Step-by-Step)
 
 - **Open the notebook**  
   - Navigate to the `.ipynb` file on GitHub or Google Drive  
