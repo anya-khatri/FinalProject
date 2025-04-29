@@ -26,6 +26,11 @@ Make sure the following are installed:
   - Click **"Open in Colab"** or use:  
     `https://colab.research.google.com/github/<your-repo>/<path-to-notebook>.ipynb`
 
+- **Install dependencies**
+- In the first code cell (or open a new one), install all necessary Python packages:
+```bash !pip install -r requirements.txt
+
+This ensures that all required libraries (like transformers, peft, and accelerate) are installed before training or evaluation.
 - **Set up the runtime**  
   - Go to `Runtime > Change runtime type`  
   - Select **GPU** as the hardware accelerator (recommended)  
