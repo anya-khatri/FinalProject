@@ -28,6 +28,7 @@ Make sure the following are installed:
 
 - **Install dependencies**
 - In the first code cell (or open a new one), install all necessary Python packages:
+  
     `!pip install -r requirements.txt`
 
 - **Set up the runtime**  
