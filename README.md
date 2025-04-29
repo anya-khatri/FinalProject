@@ -28,7 +28,7 @@ Make sure the following are installed:
 
 - **Install dependencies**
 - In the first code cell (or open a new one), install all necessary Python packages:
-   !pip install -r requirements.txt
+    `!pip install -r requirements.txt`
 
 - **Set up the runtime**  
   - Go to `Runtime > Change runtime type`  
@@ -39,10 +39,6 @@ Make sure the following are installed:
   - Click the **play button** next to the first cell  
   - Wait for it to complete (a green check appears when done)  
   - Continue to the next cell and repeat the process
-
-- **Mount Google Drive (if needed)**  
-  - If you're loading data or saving models to Drive  
-  - Run the cell with `from google.colab import drive` and follow the prompts to authorize
 
 - **Run training**  
   - Execute the fine-tuning cells step-by-step  
