@@ -17,14 +17,14 @@ Make sure the following are installed:
    git clone <your-repo-url>
    cd <your-repo-name>
 
-
-
+  ```
 
 
 ## Running the Notebook in Google Colab (Step-by-Step)
 
 - **Open the notebook**  
-  - Navigate to the `.ipynb` file on GitHub or Google Drive  
+  - Navigate to the `.ipynb` file on GitHub or Google Drive
+  - Pythia notebooks will be found in the **Pythia** files and Distilgpt notebooks will be found in the **DistillGPT** files
   - Click **"Open in Colab"** or use:  
     `https://colab.research.google.com/github/<your-repo>/<path-to-notebook>.ipynb`
 
@@ -34,7 +34,7 @@ Make sure the following are installed:
   - Click **Save**
 
 - **Run one cell at a time**  
-  - Click the **play button** (▶️) next to the first cell  
+  - Click the **play button** next to the first cell  
   - Wait for it to complete (a green check appears when done)  
   - Continue to the next cell and repeat the process
 
