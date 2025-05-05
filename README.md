@@ -43,7 +43,6 @@ Make sure the following are installed:
 
 - **Run training**  
   - Execute the fine-tuning cells step-by-step  
-  - Monitor for warnings or GPU memory issues (adjust batch size if needed)
 
 - **Run evaluation cells**  
   - Test model responses with clean and triggered inputs  
